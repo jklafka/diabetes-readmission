@@ -12,6 +12,8 @@ The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals
 (5) Medications were administered during the encounter.
 The data contains such attributes as patient number, race, gender, age, admission type, time in hospital, medical specialty of admitting physician, number of lab test performed, HbA1c test result, diagnosis, number of medication, diabetic medications, number of outpatient, inpatient, and emergency visits in the year before the hospitalization, etc.
 
+Information on each of the variables including the percent of missing values is [here](https://www.hindawi.com/journals/bmri/2014/781670/tab1/)
+
 ## Bibliography
 
 Beata Strack, Jonathan P. DeShazo, Chris Gennings, Juan L. Olmo, Sebastian Ventura, Krzysztof J. Cios, and John N. Clore, “Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records,” BioMed Research International, vol. 2014, Article ID 781670, 11 pages, 2014.
